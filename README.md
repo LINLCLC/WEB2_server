@@ -1,2 +1,5 @@
 # web2_server
-test
+## 後半段
+
+- git
+-vscode
